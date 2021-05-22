@@ -1,0 +1,15 @@
+D:\Projects\LAB9\LAB9\bin\Debug\netcoreapp3.1\LAB9.exe
+D:\Projects\LAB9\LAB9\bin\Debug\netcoreapp3.1\LAB9.deps.json
+D:\Projects\LAB9\LAB9\bin\Debug\netcoreapp3.1\LAB9.runtimeconfig.json
+D:\Projects\LAB9\LAB9\bin\Debug\netcoreapp3.1\LAB9.runtimeconfig.dev.json
+D:\Projects\LAB9\LAB9\bin\Debug\netcoreapp3.1\LAB9.dll
+D:\Projects\LAB9\LAB9\bin\Debug\netcoreapp3.1\LAB9.pdb
+D:\Projects\LAB9\LAB9\obj\Debug\netcoreapp3.1\LAB9.csprojAssemblyReference.cache
+D:\Projects\LAB9\LAB9\obj\Debug\netcoreapp3.1\LAB9.Form1.resources
+D:\Projects\LAB9\LAB9\obj\Debug\netcoreapp3.1\LAB9.csproj.GenerateResource.cache
+D:\Projects\LAB9\LAB9\obj\Debug\netcoreapp3.1\LAB9.AssemblyInfoInputs.cache
+D:\Projects\LAB9\LAB9\obj\Debug\netcoreapp3.1\LAB9.AssemblyInfo.cs
+D:\Projects\LAB9\LAB9\obj\Debug\netcoreapp3.1\LAB9.csproj.CoreCompileInputs.cache
+D:\Projects\LAB9\LAB9\obj\Debug\netcoreapp3.1\LAB9.dll
+D:\Projects\LAB9\LAB9\obj\Debug\netcoreapp3.1\LAB9.pdb
+D:\Projects\LAB9\LAB9\obj\Debug\netcoreapp3.1\LAB9.genruntimeconfig.cache
